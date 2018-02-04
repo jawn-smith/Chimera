@@ -4,9 +4,9 @@ Split wireless QMK powered keyboards
 
 ![Chimera Ortho](https://imgur.com/pbdNsoP.jpg)
 
-![Chimera Ergo](https://imgur.com/AA6ycMQ)
+![Chimera Ergo](https://imgur.com/AA6ycMQ.jpg)
 
-![Chimera LS](https://imgur.com/FOGlO4M)
+![Chimera LS](https://imgur.com/FOGlO4M.jpg)
 
 Keyboard Maintainer: [William Wilson](https://github.com/GlenPickle)  
 
